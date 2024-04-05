@@ -1,11 +1,40 @@
 ---
-title: "lllerena2.github.io"
+title: "Luis Llerena"
+image: headshot.jpg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/luis-llerena-sierra/
+    - text: GitHub
+      href: https://github.com/lllerena2
+    - text: Email
+      href: mailto:llerenal@uninorte.edu.co
 ---
+        
+# Sobre mí
 
-This is a Quarto website.
+¡Hola! Soy Luis, un ingeniero civil apasionado por la tecnología y la innovación. Desde mis inicios en el análisis y modelación de tráfico, hasta mi actualidad en la transformación digital del transporte, mi carrera ha sido un viaje de cambios, descubrimientos y aprendizaje autodidacta.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Con una sólida base en análisis y una mente inquieta por lo digital, he adquirido habilidades en programación, analítica y computación en la nube que hoy me ayudan a identificar, crear y utilizar herramientas que permitan para impulsar la eficiencia en los procesos industriales y potenciar la toma de decisiones basadas en datos.
 
-```{r}
-1 + 1
-```
+
+# Habilidades
+
+- **Programación:** Python 3, SQL, R.
+- **Herramientas:** Azure, AWS, google Cloud, machine learning, inteligencia Artificial, estadística descriptiva e inferencial, pandas, scikit-learn, Dash-Plotly, Anaconda, Rstudio, Visual Studio Code, Git, Jupyter, PTV Vissim, AutoCAD, sistemas de información geográfica (GIS).
+
+
+# Certificaciones y producciones:
+- Google Cloud Computing Foundations, Google 2024. (ver perfil)
+- Scientific Computing with Python, FreeCodeCamp, 2024.
+- Azure AI Fundamentals, Microsoft 2023. (ver perfil)
+- Data Science for all (DS4A) Colombia (375 horas), 2022
+- Artículo científico – Dockless electric scooters: A review of a growing micromobility mode, 2022.
+- Introducción a la ciencia de datos en Python, Universidad de Michigan a través de Coursera, 2020.
+- Machine learning – Stanford Online a través de Coursera, 2020.
+
+
